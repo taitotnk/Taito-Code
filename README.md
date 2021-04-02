@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Taito
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Taito-Code&hide=stars&count_private=true&show_icons=true&theme=radical" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Taito-Code&hide=stars&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taito-Code&layout=compact&theme=radical" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taito-Code&layout=compact&theme=chartreuse-dark" />
 </a>
 
